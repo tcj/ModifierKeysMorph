@@ -11,6 +11,13 @@ Developed and tested in Squeak 5.2
 It shows the state of Shift, Control, Mac-option, and Command, according to
 Sensor (EventSensor).
 
+## How to get it
+
+This git repository contains both a FileTree repo and a simple fileout.  You
+can chose to clone this repo and add the filetree repo in Monticello, or to
+just file-in the .st file.  The classes are all in category
+`ModifierKeys-Core`.
+
 ## How to open it
 
 To open it on its own:
