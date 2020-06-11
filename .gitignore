@@ -1,3 +1,7 @@
+# Mac land
+.DS_Store
+._*
+
 # changes file
 *.changes
 *.chg

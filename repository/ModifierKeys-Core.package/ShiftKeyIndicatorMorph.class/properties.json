@@ -1,0 +1,14 @@
+{
+	"category" : "ModifierKeys-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 6/11/2020 01:39",
+	"instvars" : [
+		 ],
+	"name" : "ShiftKeyIndicatorMorph",
+	"pools" : [
+		 ],
+	"super" : "BooleanIndicatorMorph",
+	"type" : "normal" }

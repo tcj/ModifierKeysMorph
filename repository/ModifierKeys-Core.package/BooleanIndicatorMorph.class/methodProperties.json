@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultColor" : "tcj 6/11/2020 01:50",
+		"defaultTruthBlock" : "tcj 6/11/2020 01:36",
+		"height:" : "tcj 6/11/2020 03:55",
+		"initialize" : "tcj 6/11/2020 01:51",
+		"step" : "tcj 6/11/2020 01:13",
+		"stepTime" : "tcj 6/11/2020 01:52",
+		"truthBlock" : "tcj 6/11/2020 01:51",
+		"truthBlock:" : "tcj 6/11/2020 01:11",
+		"wantsSteps" : "tcj 6/11/2020 01:52" } }

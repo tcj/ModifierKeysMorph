@@ -1,0 +1,1 @@
+BooleanIndicatorMorph new openInWorld

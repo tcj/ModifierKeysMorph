@@ -1,0 +1,18 @@
+{
+	"category" : "ModifierKeys-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 6/11/2020 04:18",
+	"instvars" : [
+		"cmdKeyMorph",
+		"ctrlKeyMorph",
+		"optKeyMorph",
+		"shiftKeyMorph",
+		"indicatorHeight" ],
+	"name" : "ModifierKeysMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

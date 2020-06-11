@@ -1,0 +1,15 @@
+{
+	"category" : "ModifierKeys-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 6/11/2020 01:18",
+	"instvars" : [
+		"onColor",
+		"truthBlock" ],
+	"name" : "BooleanIndicatorMorph",
+	"pools" : [
+		 ],
+	"super" : "EllipseMorph",
+	"type" : "normal" }

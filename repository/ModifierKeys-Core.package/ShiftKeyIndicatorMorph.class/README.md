@@ -1,0 +1,1 @@
+ShiftKeyIndicatorMorph new openInWorld

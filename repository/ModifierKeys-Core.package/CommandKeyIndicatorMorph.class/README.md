@@ -1,0 +1,1 @@
+CommandKeyIndicatorMorph new openInWorld

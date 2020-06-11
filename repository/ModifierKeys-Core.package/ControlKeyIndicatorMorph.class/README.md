@@ -1,0 +1,1 @@
+ControlKeyIndicatorMorph new openInWorld
