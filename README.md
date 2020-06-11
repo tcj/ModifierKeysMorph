@@ -35,6 +35,21 @@ To open it in the world's main (first) docking bar:
 No.  It uses colors chosen at semi-random at development time, through the
 use of PizzaKeyMorph (which may be uploaded soon).
 
+### What order are the keys represented by the Skitt&mdash;erm, traffic lights?
+
+From `ModifierKeysMorph>>#initialize`:
+
+```
+self addMorphBack: (shiftKeyMorph := ShiftKeyIndicatorMorph new height: self indicatorHeight).
+self addMorphBack: (ctrlKeyMorph := ControlKeyIndicatorMorph new height: self indicatorHeight).
+self addMorphBack: (optKeyMorph := RawMacOptionKeyIndicatorMorph new height: self indicatorHeight).
+self addMorphBack: (cmdKeyMorph := CommandKeyIndicatorMorph new height: self indicatorHeight).
+```
+
+### How do I remove it from my docking bar?
+
+Get the halo to appear and click the "X" halo button.
+
 ### Why did you make this?
 
 Sometimes when I cmd-tab out of a Squeak window and come back, I find that
