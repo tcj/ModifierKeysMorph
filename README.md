@@ -1,6 +1,6 @@
 # ModifierKeysMorph
 
-![SCREENSHOT](images/modkeysmorph.png)"How it looks in menubar"
+![SCREENSHOT](images/modkeysmorph.png)
 
 Morph for Squeak to show current state of modifier keys (optionally in docking bar)
 
