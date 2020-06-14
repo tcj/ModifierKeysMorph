@@ -2,7 +2,6 @@ initialization
 initialize
 	super initialize.
 	"stolen from AbstractMediaEventMorph>>#initialize"
-	self beTransparent.
 	
 	self layoutPolicy: TableLayout new;
 		listDirection: #leftToRight;

@@ -2,10 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"defaultColor" : "tcj 6/11/2020 01:50",
+		"defaultColor" : "tcj 6/14/2020 09:41",
 		"defaultTruthBlock" : "tcj 6/11/2020 01:36",
 		"height:" : "tcj 6/11/2020 03:55",
-		"initialize" : "tcj 6/11/2020 01:51",
+		"initialize" : "tcj 6/14/2020 09:32",
+		"preferredColors" : "tcj 6/14/2020 09:34",
 		"step" : "tcj 6/11/2020 01:13",
 		"stepTime" : "tcj 6/11/2020 01:52",
 		"truthBlock" : "tcj 6/11/2020 01:51",
