@@ -4,7 +4,7 @@
 
 Morph for Squeak to show current state of modifier keys (optionally in docking bar)
 
-Developed and tested in Squeak 5.2
+Developed and tested in Squeak 5.2 and 4.5
 
 ## What it does
 
